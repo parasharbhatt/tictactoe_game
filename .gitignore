@@ -1,2 +1,5 @@
 .venv/
 .idea/
+test-results/
+__pycache__/
+*.py[cod]
